@@ -22,7 +22,7 @@ sites:
   - name: NL Mail
     url: https://mail.noleron.com
   - name: NL Git
-    url: https://git.noleron.com
+    url: https://git.noleron.com/ihor/noleron-com
   - name: NL Auth
     url: https://auth.noleron.com
   - name: NL Lunarium
