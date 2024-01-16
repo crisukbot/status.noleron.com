@@ -10,7 +10,7 @@ sites:
   - name: NL Social
     url: https://social.noleron.com
   - name: NL Matrix (Server)
-    url: https://noleron.com
+    url: https://noleron.com/_matrix/static/
   - name: NL Matrix (Client Element)
     url: https://mx.noleron.com
   - name: NL Matrix (Client Cinny)
