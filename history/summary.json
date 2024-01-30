@@ -205,19 +205,19 @@
     "url": "https://lunarium.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/lunarium.noleron.com.ico",
     "slug": "nl-lunarium",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 718,
-    "timeWeek": 591,
-    "timeMonth": 612,
-    "timeYear": 612,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 615,
+    "timeDay": 702,
+    "timeWeek": 603,
+    "timeMonth": 615,
+    "timeYear": 615,
     "dailyMinutesDown": {
-      "2024-01-30": 0
+      "2024-01-30": 6
     }
   }
 ]
