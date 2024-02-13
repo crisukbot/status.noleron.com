@@ -40,19 +40,19 @@
     "url": "https://social.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/social.noleron.com.ico",
     "slug": "nl-social",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 991,
-    "timeDay": 2895,
-    "timeWeek": 1506,
-    "timeMonth": 991,
-    "timeYear": 991,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 996,
+    "timeDay": 2466,
+    "timeWeek": 1473,
+    "timeMonth": 996,
+    "timeYear": 996,
     "dailyMinutesDown": {
-      "2024-02-13": 0
+      "2024-02-13": 6
     }
   },
   {
