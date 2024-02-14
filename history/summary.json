@@ -196,18 +196,20 @@
     "url": "https://auth.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.noleron.com.ico",
     "slug": "nl-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1083,
-    "timeDay": 1198,
-    "timeWeek": 1083,
-    "timeMonth": 1083,
-    "timeYear": 1083,
-    "dailyMinutesDown": {}
+    "time": 1125,
+    "timeDay": 1903,
+    "timeWeek": 1252,
+    "timeMonth": 1125,
+    "timeYear": 1125,
+    "dailyMinutesDown": {
+      "2024-02-14": 0
+    }
   },
   {
     "name": "NL Lunarium",
