@@ -22,9 +22,9 @@
     "url": "https://noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/noleron.com.ico",
     "slug": "nl-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 845,
     "timeMonth": 741,
     "timeYear": 742,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-17": 0
+    }
   },
   {
     "name": "NL Social",
