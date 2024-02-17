@@ -101,9 +101,9 @@
     "url": "https://cinny.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/cinny.noleron.com.ico",
     "slug": "nl-matrix-client-cinny",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,16 +112,18 @@
     "timeWeek": 922,
     "timeMonth": 922,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-17": 0
+    }
   },
   {
     "name": "NL Pass",
     "url": "https://pass.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/pass.noleron.com.ico",
     "slug": "nl-pass",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +132,9 @@
     "timeWeek": 650,
     "timeMonth": 609,
     "timeYear": 617,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-17": 0
+    }
   },
   {
     "name": "NL Blog",
@@ -176,11 +180,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.noleron.com.ico",
     "slug": "nl-git",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 1200,
     "timeDay": 1279,
     "timeWeek": 1607,
