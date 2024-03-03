@@ -1,7 +1,7 @@
 url: https://noleron.com/_matrix/static/
-status: down
-code: 502
-responseTime: 183
-lastUpdated: 2024-03-03T14:07:57.895Z
+status: up
+code: 200
+responseTime: 171
+lastUpdated: 2024-03-03T14:21:05.206Z
 startTime: 2024-01-15T10:00:11.166Z
 generator: Upptime <https://github.com/upptime/upptime>
