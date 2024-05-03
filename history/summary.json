@@ -140,9 +140,9 @@
     "url": "https://blog.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.noleron.com.ico",
     "slug": "nl-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -152,6 +152,7 @@
     "timeMonth": 782,
     "timeYear": 911,
     "dailyMinutesDown": {
+      "2024-05-03": 0,
       "2024-02-14": 23
     }
   },
@@ -178,9 +179,9 @@
     "url": "https://git.noleron.com/ihor/noleron-com",
     "icon": "https://icons.duckduckgo.com/ip3/git.noleron.com.ico",
     "slug": "nl-git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -190,6 +191,7 @@
     "timeMonth": 1449,
     "timeYear": 1203,
     "dailyMinutesDown": {
+      "2024-05-03": 0,
       "2024-02-14": 44,
       "2024-02-13": 28,
       "2024-01-22": 42,
@@ -201,9 +203,9 @@
     "url": "https://auth.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.noleron.com.ico",
     "slug": "nl-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -213,6 +215,7 @@
     "timeMonth": 948,
     "timeYear": 1186,
     "dailyMinutesDown": {
+      "2024-05-03": 0,
       "2024-02-29": 139
     }
   },
@@ -221,19 +224,19 @@
     "url": "https://lunarium.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/lunarium.noleron.com.ico",
     "slug": "nl-lunarium",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 626,
     "timeDay": 628,
     "timeWeek": 628,
     "timeMonth": 628,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2024-05-03": 6,
+      "2024-05-03": 0,
       "2024-02-14": 23,
       "2024-02-13": 16
     }
