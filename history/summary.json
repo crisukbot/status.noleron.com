@@ -122,9 +122,9 @@
     "url": "https://pass.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/pass.noleron.com.ico",
     "slug": "nl-pass",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -133,7 +133,9 @@
     "timeWeek": 693,
     "timeMonth": 693,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-03": 0
+    }
   },
   {
     "name": "NL Blog",
@@ -160,9 +162,9 @@
     "url": "https://mail.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/mail.noleron.com.ico",
     "slug": "nl-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -171,7 +173,9 @@
     "timeWeek": 1050,
     "timeMonth": 1050,
     "timeYear": 1284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-03": 0
+    }
   },
   {
     "name": "NL Git",
@@ -179,18 +183,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.noleron.com.ico",
     "slug": "nl-git",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.92%",
     "time": 1198,
     "timeDay": 1576,
     "timeWeek": 1576,
     "timeMonth": 1576,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2024-05-03": 0,
+      "2024-05-03": 6,
       "2024-02-14": 44,
       "2024-02-13": 28,
       "2024-01-22": 42,
@@ -202,9 +206,9 @@
     "url": "https://auth.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.noleron.com.ico",
     "slug": "nl-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -214,6 +218,7 @@
     "timeMonth": 934,
     "timeYear": 1196,
     "dailyMinutesDown": {
+      "2024-05-03": 0,
       "2024-02-29": 139
     }
   },
@@ -222,9 +227,9 @@
     "url": "https://lunarium.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/lunarium.noleron.com.ico",
     "slug": "nl-lunarium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -234,6 +239,7 @@
     "timeMonth": 513,
     "timeYear": 625,
     "dailyMinutesDown": {
+      "2024-05-03": 0,
       "2024-02-14": 23,
       "2024-02-13": 16
     }
