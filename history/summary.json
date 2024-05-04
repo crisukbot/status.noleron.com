@@ -104,9 +104,9 @@
     "url": "https://cinny.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/cinny.noleron.com.ico",
     "slug": "nl-matrix-client-cinny",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -115,7 +115,9 @@
     "timeWeek": 750,
     "timeMonth": 750,
     "timeYear": 862,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-04": 0
+    }
   },
   {
     "name": "NL Pass",
@@ -141,18 +143,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.noleron.com.ico",
     "slug": "nl-blog",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 903,
     "timeDay": 773,
     "timeWeek": 773,
     "timeMonth": 773,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2024-05-04": 0,
+      "2024-05-04": 6,
       "2024-02-14": 23
     }
   },
@@ -161,11 +163,11 @@
     "url": "https://mail.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/mail.noleron.com.ico",
     "slug": "nl-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.29%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "96.68%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 1267,
     "timeDay": 1155,
@@ -173,7 +175,7 @@
     "timeMonth": 1155,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2024-05-04": 54
+      "2024-05-04": 48
     }
   },
   {
@@ -182,18 +184,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.noleron.com.ico",
     "slug": "nl-git",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "96.29%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.90%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 1185,
     "timeDay": 1149,
     "timeWeek": 1149,
     "timeMonth": 1149,
     "timeYear": 1185,
     "dailyMinutesDown": {
-      "2024-05-04": 54,
+      "2024-05-04": 48,
       "2024-02-14": 44,
       "2024-02-13": 28,
       "2024-01-22": 42,
@@ -205,11 +207,11 @@
     "url": "https://auth.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.noleron.com.ico",
     "slug": "nl-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.29%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.88%",
     "time": 1171,
     "timeDay": 1082,
@@ -217,7 +219,7 @@
     "timeMonth": 1082,
     "timeYear": 1171,
     "dailyMinutesDown": {
-      "2024-05-04": 54,
+      "2024-05-04": 48,
       "2024-02-29": 139
     }
   },
@@ -226,11 +228,11 @@
     "url": "https://lunarium.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/lunarium.noleron.com.ico",
     "slug": "nl-lunarium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "93.34%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.92%",
     "time": 629,
     "timeDay": 637,
@@ -238,7 +240,7 @@
     "timeMonth": 637,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2024-05-04": 78,
+      "2024-05-04": 72,
       "2024-05-03": 18,
       "2024-02-14": 23,
       "2024-02-13": 16
