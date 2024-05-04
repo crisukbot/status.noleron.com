@@ -160,9 +160,9 @@
     "url": "https://mail.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/mail.noleron.com.ico",
     "slug": "nl-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -171,16 +171,18 @@
     "timeWeek": 1000,
     "timeMonth": 1000,
     "timeYear": 1275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-04": 0
+    }
   },
   {
     "name": "NL Git",
     "url": "https://git.noleron.com/ihor/noleron-com",
     "icon": "https://icons.duckduckgo.com/ip3/git.noleron.com.ico",
     "slug": "nl-git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -190,6 +192,7 @@
     "timeMonth": 1351,
     "timeYear": 1201,
     "dailyMinutesDown": {
+      "2024-05-04": 0,
       "2024-02-14": 44,
       "2024-02-13": 28,
       "2024-01-22": 42,
@@ -201,11 +204,11 @@
     "url": "https://auth.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.noleron.com.ico",
     "slug": "nl-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1185,
     "timeDay": 1013,
@@ -213,7 +216,7 @@
     "timeMonth": 1013,
     "timeYear": 1185,
     "dailyMinutesDown": {
-      "2024-05-03": 6,
+      "2024-05-04": 0,
       "2024-02-29": 139
     }
   },
@@ -222,9 +225,9 @@
     "url": "https://lunarium.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/lunarium.noleron.com.ico",
     "slug": "nl-lunarium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.72%",
+    "uptimeDay": "98.71%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -234,6 +237,7 @@
     "timeMonth": 655,
     "timeYear": 628,
     "dailyMinutesDown": {
+      "2024-05-04": 0,
       "2024-05-03": 18,
       "2024-02-14": 23,
       "2024-02-13": 16
