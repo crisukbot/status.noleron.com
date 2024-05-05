@@ -106,8 +106,8 @@
     "slug": "nl-matrix-client-cinny",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 861,
@@ -115,9 +115,7 @@
     "timeWeek": 810,
     "timeMonth": 810,
     "timeYear": 861,
-    "dailyMinutesDown": {
-      "2024-05-04": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NL Pass",
@@ -126,8 +124,8 @@
     "slug": "nl-pass",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 641,
@@ -135,9 +133,7 @@
     "timeWeek": 647,
     "timeMonth": 647,
     "timeYear": 641,
-    "dailyMinutesDown": {
-      "2024-05-04": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NL Blog",
@@ -151,7 +147,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 891,
-    "timeDay": 738,
+    "timeDay": 750,
     "timeWeek": 746,
     "timeMonth": 746,
     "timeYear": 891,
@@ -166,8 +162,8 @@
     "slug": "nl-mail",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "89.96%",
-    "uptimeWeek": "98.57%",
+    "uptimeDay": "92.11%",
+    "uptimeWeek": "98.58%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.91%",
     "time": 1266,
@@ -176,7 +172,7 @@
     "timeMonth": 1210,
     "timeYear": 1266,
     "dailyMinutesDown": {
-      "2024-05-04": 145
+      "2024-05-04": 143
     }
   },
   {
@@ -186,12 +182,12 @@
     "slug": "nl-git",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "92.29%",
+    "uptimeDay": "94.31%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.86%",
     "time": 1184,
-    "timeDay": 1139,
+    "timeDay": 1141,
     "timeWeek": 1167,
     "timeMonth": 1167,
     "timeYear": 1184,
@@ -210,12 +206,12 @@
     "slug": "nl-auth",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "88.60%",
+    "uptimeDay": "90.62%",
     "uptimeWeek": "98.37%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.81%",
     "time": 1174,
-    "timeDay": 1151,
+    "timeDay": 1152,
     "timeWeek": 1131,
     "timeMonth": 1131,
     "timeYear": 1174,
@@ -231,17 +227,17 @@
     "slug": "nl-lunarium",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "83.49%",
-    "uptimeWeek": "97.64%",
+    "uptimeDay": "86.90%",
+    "uptimeWeek": "97.66%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.83%",
     "time": 632,
-    "timeDay": 642,
+    "timeDay": 638,
     "timeWeek": 639,
     "timeMonth": 639,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-05-04": 220,
+      "2024-05-04": 218,
       "2024-05-03": 18,
       "2024-02-14": 23,
       "2024-02-13": 16
