@@ -104,9 +104,9 @@
     "url": "https://cinny.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/cinny.noleron.com.ico",
     "slug": "nl-matrix-client-cinny",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -115,16 +115,18 @@
     "timeWeek": 810,
     "timeMonth": 810,
     "timeYear": 861,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-05": 0
+    }
   },
   {
     "name": "NL Pass",
     "url": "https://pass.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/pass.noleron.com.ico",
     "slug": "nl-pass",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -133,7 +135,9 @@
     "timeWeek": 647,
     "timeMonth": 647,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-05": 0
+    }
   },
   {
     "name": "NL Blog",
@@ -180,10 +184,10 @@
     "url": "https://git.noleron.com/ihor/noleron-com",
     "icon": "https://icons.duckduckgo.com/ip3/git.noleron.com.ico",
     "slug": "nl-git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "91.94%",
-    "uptimeWeek": "98.38%",
+    "uptimeDay": "91.92%",
+    "uptimeWeek": "98.37%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.82%",
     "time": 1183,
@@ -205,9 +209,9 @@
     "url": "https://auth.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.noleron.com.ico",
     "slug": "nl-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "89.37%",
+    "uptimeDay": "89.36%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.79%",
@@ -227,9 +231,9 @@
     "url": "https://lunarium.noleron.com",
     "icon": "https://icons.duckduckgo.com/ip3/lunarium.noleron.com.ico",
     "slug": "nl-lunarium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "84.80%",
+    "uptimeDay": "84.79%",
     "uptimeWeek": "97.17%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.80%",
